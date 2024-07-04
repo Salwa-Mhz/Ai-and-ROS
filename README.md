@@ -30,7 +30,6 @@ C- rise the memory size as much as possible before the end of the green line. th
 
 9- open terminal from the main screen , copy and paste the coomands ,then ros is installed.
 
-F
 
 
 
