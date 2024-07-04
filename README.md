@@ -37,6 +37,11 @@ C- rise the memory size as much as possible before the end of the green line. th
 
 
 
+
+
+.
+.
+
 # A-Getting Started with Turtlesim
 
 1-Start the roscore:
