@@ -100,14 +100,15 @@ ros-kinetic-turtlesim set to manually installed.
 
 
 
-**the output**:
+**the output**
 
 $ rosrun turtlesim turtlesim_node
+
 [ INFO] [1720035669.181655351]: Starting turtlesim with node name /turtlesim
 [ INFO] [1720035669.188852436]: Spawning turtle [turtle1] at x=[5.544445], y=[5.544445], theta=[0.000000]
 
 
-the turtlesim screen show up
+**the turtlesim screen show up**
 
 4-turtle keyboard teleoperation
 open new terminal and write down :
@@ -121,7 +122,7 @@ Use arrow keys to move the turtle.
 
 
 B-Using rostopic pub
--
+
 -rostopic pub publishes data on to a topic currently advertised.
 
 
