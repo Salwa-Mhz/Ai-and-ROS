@@ -75,6 +75,11 @@ ROS_MASTER_URI=http://salwa-VirtualBox:11311/
 setting /run_id to 87f07080-3971-11ef-8e17-0800278eeabe
 process[rosout-1]: started with pid [2086]
 started core service [/rosout]
+.
+.
+.
+.
+.
 
 
 
@@ -94,6 +99,12 @@ ros-kinetic-turtlesim is already the newest version (0.7.1-0xenial-20210503-1036
 ros-kinetic-turtlesim set to manually installed.
 0 upgraded, 0 newly installed, 0 to remove and 3 not upgraded.
 
+.
+.
+.
+.
+
+
 3-Run turtlesim:
 
         $ rosrun turtlesim turtlesim_node
@@ -110,6 +121,11 @@ $ rosrun turtlesim turtlesim_node
 
 **the turtlesim screen show up**
 
+.
+.
+.
+.
+
 4-turtle keyboard teleoperation
 open new terminal and write down :
 
@@ -120,13 +136,18 @@ Reading from keyboard
 ---------------------------
 Use arrow keys to move the turtle.
 
+.
+.
+.
+.
+.
 
 B-Using rostopic pub
 
 -rostopic pub publishes data on to a topic currently advertised.
 
 
--  $ rostopic pub -1 /turtle1/cmd_vel geometry_msgs/Twist -- '[2.0, 0.0, 0.0]' '[0.0, 0.0, 1.8]' 
+    $ rostopic pub -1 /turtle1/cmd_vel geometry_msgs/Twist -- '[2.0, 0.0, 0.0]' '[0.0, 0.0, 1.8]' 
  
 this command makes the turtle move in half circul path and stop
 
