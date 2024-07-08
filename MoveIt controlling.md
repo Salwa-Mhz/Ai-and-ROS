@@ -432,4 +432,4 @@ process[robot_state_publisher-6]: started with pid [24630]
 [robot_state_publisher-6] process has finished cleanly
 
 
-![photo_2024-07-08_16-56-42](https://github.com/Salwa-Mhz/Ai-and-ROS/assets/172436383/7319bdcb-b28e-423f-acc2-614793d98ac6)
+![photo_2024-07-08_17-00-16](https://github.com/Salwa-Mhz/Ai-and-ROS/assets/172436383/d8173993-b2ce-4301-a074-9aa6bf64de57)
