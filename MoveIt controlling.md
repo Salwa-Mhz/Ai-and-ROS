@@ -269,7 +269,8 @@ You can start planning now!
 [ WARN] [1720429253.320359219, 74.839000000]: Interactive marker 'EE:goal_gripper' contains unnormalized quaternions. This warning will only be output once but may be true for others; enable DEBUG messages for ros.rviz.quaternions to see more details.
 
 
-![photo_2024-07-08_16-56-35](https://github.com/Salwa-Mhz/Ai-and-ROS/assets/172436383/34139a8a-2b3e-469c-9c57-0e2ab490de60)
+![photo_2024-07-08_17-00-16](https://github.com/Salwa-Mhz/Ai-and-ROS/assets/172436383/d8173993-b2ce-4301-a074-9aa6bf64de57)
+
 
 
 
@@ -298,4 +299,4 @@ process[robot_state_publisher-6]: started with pid [24630]
 [robot_state_publisher-6] process has finished cleanly
 
 
-![photo_2024-07-08_17-00-16](https://github.com/Salwa-Mhz/Ai-and-ROS/assets/172436383/d8173993-b2ce-4301-a074-9aa6bf64de57)
+![photo_2024-07-08_16-56-42](https://github.com/Salwa-Mhz/Ai-and-ROS/assets/172436383/7319bdcb-b28e-423f-acc2-614793d98ac6)
