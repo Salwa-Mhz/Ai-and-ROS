@@ -1,3 +1,6 @@
+
+# Controlling the robot arm by joint_state_publisher
+
 Installing the package arduino_robot_arm
 
 -- Add the “arduino_robot_arm” package to “src” folder
