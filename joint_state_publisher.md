@@ -1,7 +1,7 @@
 
 # Controlling the robot arm by joint_state_publisher
 
-Installing the package arduino_robot_arm
+-Installing the package arduino_robot_arm
 
 -- Add the “arduino_robot_arm” package to “src” folder
 
@@ -28,7 +28,7 @@ output :
 
 fatal: destination path 'arduino_robot_arm' already exists and is not an empty directory
 
-B- Install all the dependencies 
+- Install all the dependencies 
 	$ cd ~/catkin_ws
 	$ rosdep install --from-paths src --ignore-src -r -y
 
@@ -75,7 +75,7 @@ output:Reading state information... Done
 E: Unable to locate package ros-noetic-ros-controllers
 E: Unable to locate package ros-noetic-ros-control
 
-Compile the package
+-Compile the package
 $ catkin_make
 
 output:
