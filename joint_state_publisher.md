@@ -7,7 +7,7 @@ Installing the package arduino_robot_arm
 
 
 
-A
+
 
 -$ cd ~/catkin_ws/src
 	$ sudo apt install git
