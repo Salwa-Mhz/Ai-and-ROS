@@ -1,42 +1,4 @@
 
-# Controlling the robot arm by joint_state_publisher
-
-$ roslaunch robot_arm_pkg check_motors.launch
-
-
-output:
-... logging to /home/salwa/.ros/log/185f9e9a-3d08-11ef-8ec9-0800278eeabe/roslaunch-salwa-VirtualBox-12703.log
-Checking log directory for disk usage. This may take awhile.
-Press Ctrl-C to interrupt
-Done checking log file disk usage. Usage is <1GB.
-
-started roslaunch server http://salwa-VirtualBox:41651/
-
-SUMMARY
-========
-
-PARAMETERS
- * /robot_description: <?xml version="1....
- * /rosdistro: kinetic
- * /rosversion: 1.12.17
-
-NODES
-  /
-    joint_state_publisher_gui (joint_state_publisher_gui/joint_state_publisher_gui)
-    robot_state_publisher (robot_state_publisher/robot_state_publisher)
-    rviz (rviz/rviz)
-
-auto-starting new master
-process[master]: started with pid [12713]
-ROS_MASTER_URI=http://localhost:11311
-
-setting /run_id to 185f9e9a-3d08-11ef-8ec9-0800278eeabe
-process[rosout-1]: started with pid [12726]
-started core service [/rosout]
-process[robot_state_publisher-2]: started with pid [12740]
-process[rviz-3]: started with pid [12745]
-process[joint_state_publisher_gui-4]: started with pid [12746]
-[INFO] [1720429046.633493]: Centering
 
 
 $ roslaunch robot_arm_pkg check_motors_gazebo.launch
