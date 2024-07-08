@@ -190,7 +190,7 @@ process[joint_state_publisher_gui-3]: started with pid [10061]
 
 
 $ roslaunch robot_arm_pkg check_motors_gazebo.launch
-
+ 
 output:
 ... logging to /home/salwa/.ros/log/6d9c9918-3d02-11ef-8ec9-0800278eeabe/roslaunch-salwa-VirtualBox-10391.log
 Checking log directory for disk usage. This may take awhile.
