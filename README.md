@@ -9,7 +9,7 @@
 -( https://releases.ubuntu.com/16.04/)
 
 3-set up VirtualBox:
-
+ 
 A- open VirtualBox
 
 B- Click new to create the virtual machine
