@@ -36,4 +36,3 @@ C- rise the memory size as much as possible before the end of the green line. th
 
 
 
-
